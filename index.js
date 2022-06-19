@@ -1,12 +1,4 @@
-/*
-=-=-=-=-=-=-=-=-=-=-=-=-
-Album Art Search
-=-=-=-=-=-=-=-=-=-=-=-=-
-Student ID:
-Comment (Required):
 
-=-=-=-=-=-=-=-=-=-=-=-=-
-*/
 
 const fs = require ('fs');
 const http = require('http');
